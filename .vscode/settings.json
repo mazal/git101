@@ -1,9 +1,9 @@
 {
     "files.exclude": {
-        "**/.git": true,
-        "**/*.log": true,
         "**/.*": true,
+        "**/.git": false,
         "**/*.csproj": true,
+        "**/*.log": true,
         "**/bin": true,
         "**/obj": true
     }
