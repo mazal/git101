@@ -1,2 +1,10 @@
 {
+    "files.exclude": {
+        "**/.git": false,
+        "**/*.log": true,
+        "**/.*": false,
+        "**/*.csproj": true,
+        "**/bin": true,
+        "**/obj": true
+    }
 }
